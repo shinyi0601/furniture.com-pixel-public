@@ -1,0 +1,12 @@
+homepage: "https://www.furniture.com"
+documentation: "https://pages.furniture.com/pixel-resources" 
+
+#Latest Versions
+versions:
+  - sha: c621beb8873fd1862fa301b3766804d05dc0d843
+    changeNotes: Initial release.
+
+#Older Versions
+versions:
+  - sha: 057f071b1af8faca903354d2ac1f09bb16f4f30a
+    changeNotes: Initial release.
